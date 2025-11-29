@@ -24,6 +24,7 @@ public class Task_5 {
         System.out.println("First Number "+ num1);
         System.out.println("Second Number "+ num2);
 
+
     }
 
 }
